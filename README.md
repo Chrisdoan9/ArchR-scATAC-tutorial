@@ -1,5 +1,5 @@
-## ArchR Tutorial: Single-cell ATAC-seq Analysis
-
+## ArchR Tutorial: Single-cell ATAC-seq Analysis  
+Single-cell analysis of regulatory chromatin in R  
 This repository contains a walkthrough of the [official ArchR tutorial](https://www.archrproject.com/articles/Articles/tutorial.html).
 
 ## Overview
